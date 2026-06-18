@@ -1,4 +1,15 @@
-# sample
-
-このフォルダはサンプル説明用です。
-実際の橋梁点検PDF、現場写真、CSV、ZIPはGitHubに登録しないでください。
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
+/photos/
+/exports/
+/data/
+*.pdf
+*.jpg
+*.jpeg
+*.png
+*.heic
+*.heif
+*.csv
+*.zip
